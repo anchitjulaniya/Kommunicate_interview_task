@@ -33,7 +33,11 @@ Create a function that accepts a URL and a parameter name, returning the value o
 
 ## 4. Project Description: Rozgar (Freelancing Project)
 
-### Barabari Rozgar (Freelancing Project) [Link](https://rozgar-dashboard-frontend.onrender.com/) [GitHub repository is Private](https://github.com/Barabari-Project/Rozgar-Dashboard-Frontend)
+### Barabari Rozgar (Freelancing Project) 
+
+[Link](https://rozgar-dashboard-frontend.onrender.com/)
+
+[GitHub repository is Private](https://github.com/Barabari-Project/Rozgar-Dashboard-Frontend)
 
 ![SignIn Page](./Task_4/signIn.png)
 
