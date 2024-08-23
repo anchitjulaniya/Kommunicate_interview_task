@@ -35,7 +35,7 @@ Create a function that accepts a URL and a parameter name, returning the value o
 
 ### Barabari Rozgar (Freelancing Project) 
 
-[Link](https://rozgar-dashboard-frontend.onrender.com/)
+[Rozgar Website Link](https://rozgar-dashboard-frontend.onrender.com/)
 
 [GitHub repository is Private](https://github.com/Barabari-Project/Rozgar-Dashboard-Frontend)
 
