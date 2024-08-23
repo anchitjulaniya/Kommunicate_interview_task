@@ -13,6 +13,8 @@ This repository contains solutions to several JavaScript problems provided as pa
 ### Task
 Create a given image using only HTML and CSS. The goal is to match the design as closely as possible, focusing on layout, and styling.
 
+![Design Screenshot](./Task_1/Screenshot.png)
+
 ---
 
 ## 2. Reverse a Number
@@ -29,9 +31,11 @@ Create a function that accepts a URL and a parameter name, returning the value o
 
 ---
 
-## 4. Project Description: Real-Time Bidding Engine
+## 4. Project Description: Rozgar (Freelancing Project)
 
-### Overview
-Developed a real-time bidding engine that enables users to participate in auctions, place bids, and manage auction activities in real time. The project was built using React.js, Tailwind CSS, Node.js, Express.js, MongoDB, and WebSockets for real-time updates.
+### Barabari Rozgar (Freelancing Project) [Link](https://rozgar-dashboard-frontend.onrender.com/) [GitHub repository is Private](https://github.com/Barabari-Project/Rozgar-Dashboard-Frontend)
+- Designed and implemented the SignIn page, SignUp page, Header, and a Lecture Dashboard with four tabs (Assignment Tab, Problems Tab, Lecture, Notes).
+- Explored advanced features including API fetching, complex filtering, and powerful search options, enhancing the user experience.
+- **Tech Stack**: HTML, CSS, Tailwind CSS, TypeScript, Redux, Node.js, Express.js, MongoDB.
 
 ---
