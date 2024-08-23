@@ -34,6 +34,9 @@ Create a function that accepts a URL and a parameter name, returning the value o
 ## 4. Project Description: Rozgar (Freelancing Project)
 
 ### Barabari Rozgar (Freelancing Project) [Link](https://rozgar-dashboard-frontend.onrender.com/) [GitHub repository is Private](https://github.com/Barabari-Project/Rozgar-Dashboard-Frontend)
+
+![SignIn Page](./Task_4/signIn.png)
+
 - Designed and implemented the SignIn page, SignUp page, Header, and a Lecture Dashboard with four tabs (Assignment Tab, Problems Tab, Lecture, Notes).
 - Explored advanced features including API fetching, complex filtering, and powerful search options, enhancing the user experience.
 - **Tech Stack**: HTML, CSS, Tailwind CSS, TypeScript, Redux, Node.js, Express.js, MongoDB.
