@@ -35,6 +35,3 @@ Create a function that accepts a URL and a parameter name, returning the value o
 Developed a real-time bidding engine that enables users to participate in auctions, place bids, and manage auction activities in real time. The project was built using React.js, Tailwind CSS, Node.js, Express.js, MongoDB, and WebSockets for real-time updates.
 
 ---
-
-### Note
-This repository serves as documentation for the Kommunicate assignments. The detailed solutions are implemented in the code files.
