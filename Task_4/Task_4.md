@@ -1,9 +1,4 @@
-4. Description of the Best Project(backend)
-One of the best projects I've worked on is a real-time bidding engine. This project was a part of a larger system designed to allow users to place bids on various items in real time. The system needed to handle multiple users bidding simultaneously, update the bid status live, and manage all the auction-related activities.
-
----
-
-# Rozgar (Freelancing Project)
+# [Rozgar (Freelancing Project)](https://rozgar-dashboard-frontend.onrender.com/)
 
 ## Project Overview
 
