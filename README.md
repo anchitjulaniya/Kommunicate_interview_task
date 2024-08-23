@@ -11,7 +11,7 @@ This repository contains solutions to several JavaScript problems provided as pa
 ## 1. HTML & CSS Design [Link](https://anchitjulaniya.github.io/Kommunicate_interview_task/Task_1/)
 
 ### Task
-Recreate a given image using only HTML and CSS. The goal is to match the design as closely as possible, focusing on layout, styling, and responsiveness.
+Create a given image using only HTML and CSS. The goal is to match the design as closely as possible, focusing on layout, and styling.
 
 ---
 
